@@ -1,4 +1,4 @@
-# Wearher-App
+# Weather-App
 This is a simple yet functional weather app using JavaScript, Tailwind CSS, and a weather API. The app allows users to search for any location and view real-time weather details, including temperature, conditions, and an icon representing the current weather. With Tailwind CSS, I created a clean and responsive design, while JavaScript handles API integration and dynamic updates to ensure a seamless user experience. This project showcases my ability to combine front-end development skills with API utilization to create a practical and visually appealing application.
 
 
